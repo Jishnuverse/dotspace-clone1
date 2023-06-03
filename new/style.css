@@ -1,0 +1,28 @@
+div{
+
+    display: inline-block;
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 200px;
+    overflow: auto;
+    
+}
+div:hover{
+
+    background-color: darkorange;
+}
+input:hover{
+
+background-color: chartreuse;
+border-radius: 5px;
+    
+}
+label:hover{
+
+    font-size: xx-large;
+    background-color: rgb(48, 190, 133);
+}
+p::first-letter{
+
+    background-color: blue;
+}
